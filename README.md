@@ -1,2 +1,2 @@
 # excel_attendance_tracker assignment
-##Each week of the month on seperate worksheet
+# each week of the month on separate worksheet
